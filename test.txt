@@ -6,3 +6,4 @@ Now I'm try on to create a GitHub pages.
 I'm learning to how to pull this repository to my local working place.
 Perhaps something wrong I'm checking it.
 Check it and try again.
+I don't successful the operation to pull to local git.Try again.
