@@ -9,4 +9,3 @@ Check it and try again.
 Check it and try again.
 I don't successful the operation to pull to local git.Try again.
 I want to merge this file with masteryc branch.
-fix and Revises it for pull to local git.
