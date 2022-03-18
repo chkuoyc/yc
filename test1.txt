@@ -6,9 +6,7 @@ Now I'm trying to create a GitHub pages.
 I'm learning to how to pull this repository to my local working place.
 Perhaps something wrong I'm checking it.
 Check it and try again.
-<<<<<<< HEAD:test.txt
 Check it and try again.
 I don't successful the operation to pull to local git.Try again.
-=======
 I want to merge this file with masteryc branch.
->>>>>>> emergency-fix-masteryck:test1.txt
+fix and Revises it for pull to local git.
