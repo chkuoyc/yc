@@ -5,3 +5,7 @@ hello just test for push to remote, because I haven't manipulate this programmin
 write again just for push test.
 # Today October 28th, 2022
 just wirte something for push into remote to github repository.
+# Today November 15th, 2022
+Manipulate the git and github for practic.
+what happen! It's not workingt.
+  
